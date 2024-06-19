@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "hey"
-echo "my current working directory is : "
-pwd
+echo "list of storage is : "
+ls
